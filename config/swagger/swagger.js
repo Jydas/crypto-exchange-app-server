@@ -13,6 +13,7 @@ const options = {
     servers: [
       {
         url: 'http://localhost:8000',
+        url: 'https://crypto-exchange-app-server.herokuapp.com/',
       },
     ],
   },
