@@ -295,7 +295,7 @@ const { specs, swaggerUi } = require('./config/swagger/swagger');
  *        schema:
  *          type: string
  *        description: The address of the wallet that calls the exchange router.
- *        example: '0x6344df880aaa3d4rda4CB57F8d794419E41e7F34b2'
+ *        example: '0x704D1B76a1be4682CE307a2807AC035afD59481E'
  *      - in: query
  *        name: fromTokenAddress
  *        required: true
